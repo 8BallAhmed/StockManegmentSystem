@@ -17,3 +17,4 @@ This database project is concerned about managing (generally) all the aspects of
 
 # Interacting with the database with java GUI application
 This part was not fully finished but we did the major parts (adding, deleting)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MUuMa-hyX88/0.jpg)](https://www.youtube.com/watch?v=MUuMa-hyX88)
