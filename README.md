@@ -1,5 +1,5 @@
 # StockManegmentSystem
-Our CPIT240 (Database 1) Course Project with Ahmed Al-Osaimi (8BallAhmed)
+Our CPIT240 (Database 1) Course Project with Ahmed Al-Osaimi (8BallAhmed) [https://github.com/8BallAhmed]
 
 ## About
 This database project is concerned about managing (generally) all the aspects of warehouses.
