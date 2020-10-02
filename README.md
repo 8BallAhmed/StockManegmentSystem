@@ -1,7 +1,7 @@
 # StockManegmentSystem
-My CPIT240 (Database 1) Course Project
+Our CPIT240 (Database 1) Course Project with Ahmed Al-Osaimi (8BallAhmed)
 
-## Installation
+## About
 This database project is concerned about managing (generally) all the aspects of warehouses.
 - keeping track of stock, income, and expense. 
 - manages and tracks Products, Customers. Payments.
